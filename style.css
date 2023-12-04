@@ -51,4 +51,12 @@ body {
     align-items: center;
 }
 
-.text-data .name {}
+.text-data .name {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.text-data .job{
+    font-size: 15px;
+    font-weight: 400;
+}
