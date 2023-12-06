@@ -76,6 +76,21 @@ body {
     width: 34px;
     border-radius: 50%;
     margin: 0 10px;
-    background-color: red;
+    background-color: #e2012d;
     text-decoration: none;
+}
+.profile_card .buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.buttons .button {
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    background-color:#e2012d;
+    border: none;
+    border-radius: 24px;
+    margin: 0 10px;
+    padding: 8px 24px;
 }
